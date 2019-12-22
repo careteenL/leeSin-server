@@ -1,0 +1,25 @@
+{
+  "name": "@careteen/leesin-server",
+  "version": "1.0.0",
+  "description": "前端监控server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careteenL/leeSin-server.git"
+  },
+  "keywords": [],
+  "author": "Careteen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/careteenL/leeSin-server/issues"
+  },
+  "homepage": "https://github.com/careteenL/leeSin-server#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "nodemon": "^2.0.2",
+    "source-map": "^0.7.3"
+  }
+}
